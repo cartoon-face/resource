@@ -2,8 +2,8 @@
 
 | Subject | |
 |-----|-----|
-| Premine | [Goto]() |
-| Roadmap | [Goto]() |
+| Premine | [Goto](https://github.com/cartoon-face/resource/blob/main/Discussion.md#premine) |
+| Roadmap | [Goto](https://github.com/cartoon-face/resource/blob/main/Discussion.md#roadmap) |
 
 ___
 
