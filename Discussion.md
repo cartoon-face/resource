@@ -3,6 +3,7 @@
 | Subject | |
 |-----|-----|
 | Premine | [Goto]() |
+| Roadmap | [Goto]() |
 
 ___
 
@@ -40,3 +41,16 @@ In order for an effective workflow and to make sure everybody is fairly rewarded
 | Pros | Cons |
 |-----|-----|
 | Secure funds for the project | Unfair advantage for investors |
+
+___
+
+## Roadmap
+
+General ideas, plans and goals for the Mimosa team to achieve.
+
+### Ideas
+
+- Public Transactions (Overt transactions)
+  - [As mentioned by Aivve](https://github.com/seredat/karbowanec/pull/114]), "The “overt transaction” is a normal transaction that includes a special attachment in its “extra” field that contains disclosures of sender and recipient(s) public addresses and corresponding cryptographic signatures proving payment to destination by only revealing key derivation, not the actual transaction secret key, and allowing to determine which transaction outputs belongs to which address, as well as received amounts. These transactions, however, do not reveal involved parties’s wallet balances, nor previous or subsequent operations."
+- Blockchain Storage Improvements
+  - [Monero](https://github.com/monero-project/monero/) uses LMDB whereas [Bytecoin](https://github.com/amjuarez/bytecoin/tree/frozen-master) uses RocksDB to store their blockchain information. For Mimosa, we could implement one of the two or a new alternative.
