@@ -13,11 +13,12 @@ Discusses how Mimosa's premine will be calculated and ideas on how to use it in 
 
 | | |
 |-----|-----|
-| Amount to be premined | 5,000,000 |
-| Delegated governance fund | 2,500,000 |
-| Amount to be locked (staked) | 1,000,000 |
-| Team funds | 500,000 |
+| Amount to be premined | TBD (?%) |
+| Delegated governance fund | TBD |
+| Amount to be locked (staked) | TBD |
+| Team funds | TBD |
 | Private sale? | TBD |
+| Initial Giveaway for new users | TBD |
 
 - **Locking Funds (staking)**
   - Staking portions of the premine not only allows for growth & interest of these coins for the future of Mimosa but also this could
@@ -28,6 +29,9 @@ prove authenticity of the projects contributing members.
   - This secures future funds for the Mimosa project developers and community. Can be locked up to 12 months.
 - **Team Funds**
   - In order for an effective workflow and to make sure everybody is fairly rewarded for contributing, these funds have been allocated.
+- **Initial Giveaway for new users**
+  - This could be done as an insentive for people to start engaging in the Mimosa Ecosystem.
+  - I.E: We could give 1 full Mimosa coin, plus an additional amount to cover fees, so then people could instantly begin _banking_ coins, allowing the chance to earn more passively.
 
 #### Private Sale
 
